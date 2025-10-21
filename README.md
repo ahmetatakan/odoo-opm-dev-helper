@@ -1,6 +1,6 @@
 # OPM Dev Helper
 
-![OPM Dev Helper Banner](opm_dev_helper/static/description/banner.png)
+![OPM Dev Helper Banner](opm_dev_helper/static/description/screenshot_01.png)
 
 A lightweight developer utility module designed to enhance your Odoo development workflow.
 

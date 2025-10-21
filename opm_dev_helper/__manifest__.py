@@ -27,6 +27,6 @@
     },
     "images": [
         "static/description/icon.png",
-        "static/description/screenshot_01.png",
+        "static/description/cover.png",
     ],
 }

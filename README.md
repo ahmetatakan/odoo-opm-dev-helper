@@ -1,7 +1,5 @@
 # OPM Dev Helper
 
-![OPM Dev Helper Banner](opm_dev_helper/static/description/screenshot_01.png)
-
 A lightweight developer utility module designed to enhance your Odoo development workflow.
 
 **OPM Dev Helper** integrates seamlessly with the [Odoo Plugin Manager (CLI)](https://github.com/ahmetatakan/odoo-plugin-manager)  

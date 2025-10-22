@@ -1,6 +1,6 @@
 {
     "name": "OPM Dev Helper",
-    "version": "17.0.1.0.2",
+    "version": "18.0.1.0.0",
     "summary": "Hot-reload for faster Odoo development (requires Odoo Plugin Manager CLI).",
     "description": """
     # OPM Dev Helper
